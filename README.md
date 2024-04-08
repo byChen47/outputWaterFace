@@ -3,3 +3,4 @@
 
 surface主要是用sampling输出水面，可以直接输出自由液面为0.5处的等值面的alpha.water、U、p
 主要的用法，在constrolDict中添加: #include "surface"
+![image]https://github.com/byChen47/outputWaterFace/blob/main/surface.png
