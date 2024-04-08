@@ -1,2 +1,2 @@
-# outputWaterFace
+
 在OpenFOAM中直接采用sampling输出水面
