@@ -6,4 +6,4 @@ surface主要是用sampling输出水面，可以直接输出自由液面为0.5�
 
 #Ueqn
 这个文件是在interFoam中添加源项，实现主动消波的效果
-[image]https://github.com/byChen47/outputWaterFace/blob/main/Mooring.png
+![image](https://github.com/byChen47/outputWaterFace/blob/main/Mooring.png)
